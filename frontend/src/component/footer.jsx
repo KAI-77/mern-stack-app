@@ -4,9 +4,15 @@ export default function Footer() {
   const textColor = useColorModeValue("gray.200", "#0A0D14");
 
   return (
-    <Text textAlign="center" fontSize="sm" color={textColor} py={4}>
-      {" "}
+    <footer
+      style={{
+        textAlign: "center",
+        padding: "16px",
+        fontSize: "14px",
+        color: "#4A4A4A",
+      }}
+    >
       © 2024 Shan Umbong. All rights reserved.
-    </Text>
+    </footer>
   );
 }
