@@ -1,6 +1,6 @@
 Inventra: Smart Inventory Management System
 
-Description
+Description: 
 Inventra is a simplified inventory management application designed to make asset tracking easy for busy business owners. It offers an intuitive interface to manage, add and delete products and stay organized and in control of their inventory.
 
 Tech Stack
